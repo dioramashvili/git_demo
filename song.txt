@@ -3,3 +3,5 @@ wall of shields
 Here is some gibberish
 Lizarazu lalalala
 Buzuzu bazuuu
+
+This text must be a feature part
